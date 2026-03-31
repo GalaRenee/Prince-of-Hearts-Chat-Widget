@@ -2,6 +2,7 @@
 A custom Twitch chat widget built with HTML, CSS, JavaScript, and inline SVG animations.
 
 This project replaces the default Twitch chat with an enchanted, fairytale-themed design, featuring animated chat bubbles and a clean, minimalistic layout.
+
  --- Inspired by Stephanie Garber's character from the "Once Upon a Broken Heart" book series. ---
 
 <!-- Add in a demo vid/gif here later -->
