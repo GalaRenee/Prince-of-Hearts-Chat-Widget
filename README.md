@@ -1,4 +1,4 @@
-# 💘 Prince-of-Hearts-Chat-Widget 💘
+# 💘 Prince-of-Hearts-Chat-Widget 💘 [Coming Soon]
 A custom Twitch chat widget built with HTML, CSS, JavaScript, and inline SVG animations.
 
 This project replaces the default Twitch chat with an enchanted, fairytale-themed design, featuring animated chat bubbles and a clean, minimalistic layout.
